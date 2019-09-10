@@ -45,11 +45,7 @@ var Avatar = /** @class */ (function (_super) {
                             React.createElement("mask", { id: 'mask-2', fill: 'white' },
                                 React.createElement("use", { xlinkHref: '#path-1' })),
                             React.createElement("use", { id: 'Circle-Background', fill: '#E6E6E6', xlinkHref: '#path-1' }),
-<<<<<<< HEAD
-                            React.createElement("g", { id: 'Color/Palette/Black', mask: 'url(#mask-2)', fill: '#2c3e50' },
-=======
                             React.createElement("g", { id: 'Color/Palette/Black', mask: 'url(#mask-2)', fill: '#A1DCD8' },
->>>>>>> parent of 21e86a8... Revert "v1.2.3"
                                 React.createElement("rect", { id: '\uD83D\uDD8DColor', x: '0', y: '0', width: '240', height: '240' })))) : null,
                         circle ? (React.createElement("mask", { id: 'mask-4', fill: 'white' },
                             React.createElement("use", { xlinkHref: '#path-3' }))) : null,

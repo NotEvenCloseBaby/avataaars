@@ -69,7 +69,7 @@ export default class Avatar extends React.Component<Props> {
                     id='Color/Palette/Black'
                     mask='url(#mask-2)'
                     fill='#A1DCD8'>
-                    <rect id='🖍Color' x='0' y='0' width='240' height='240' />
+                    <rect id='??Color' x='0' y='0' width='240' height='240' />
                   </g>
                 </g>
               ) : null}
